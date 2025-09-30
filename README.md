@@ -2,7 +2,7 @@
 
 <br>
 
-●&nbsp;&nbsp;&nbsp;&nbsp;Nombre: Elisa Luque Jiménez
+●&nbsp;&nbsp;&nbsp;&nbsp;Nombre: Elisa Luque Jiménez, vendehumo de manual
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;Curso Académico: 2024/2025
 
