@@ -17,7 +17,7 @@
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;Lugar donde se llevará a cabo la investigación: Centro Andaluz de Biología del Desarrollo (CABD).
 
-●&nbsp;&nbsp;&nbsp;&nbsp;Situación de la tesis: Comienzo de tesis.
+●&nbsp;&nbsp;&nbsp;&nbsp;Situación de la tesis: Finalización de tesis (a la puta calle).
 
 <br>
 
