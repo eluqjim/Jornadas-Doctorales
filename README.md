@@ -2,12 +2,12 @@
 
 <br>
 
-●&nbsp;&nbsp;&nbsp;&nbsp;Nombre: Elisa Luque Jiménez, vendehumo de manual
+●&nbsp;&nbsp;&nbsp;&nbsp;Nombre: Elisa Luque Jiménez
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;Curso Académico: 2024/2025
 
-●&nbsp;&nbsp;&nbsp;&nbsp;Título provisional de la Tesis Doctoral: Búsqueda de artrópodos reservorios de bacterias y virus patógenos mediante el análisis 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de datos de secuenciación NGS públicos.
+●&nbsp;&nbsp;&nbsp;&nbsp;Título provisional de la Tesis Doctoral: Búsqueda de artrópodos reservorios de bacterias y virus patógenos mediante el análisis de datos 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de secuenciación NGS públicos.
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;Línea de Investigación: Ingeniería, Ciencia de Datos y Bioinformática.
 
