@@ -232,11 +232,10 @@ Estas búsquedas de datos genómicos serán realizadas en bases de datos con dat
 
 <br>
 
-○&nbsp;&nbsp;&nbsp;&nbsp;Menciones: 
-Tesis con mención internacional. Se prevé que la estancia dure alrededor de tres meses y que el trabajo científico 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;que se realice esté directamente relacionado con los objetivos de la tesis mencionados anteriormente o con los de alguna 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publicación. Actualmente se está llevando a cabo una búsqueda de grupos de investigación y proyectos con los que 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colaborar para la estancia.
+○&nbsp;&nbsp;&nbsp;&nbsp;Menciones: Tesis con mención internacional. Se prevé que la estancia dure alrededor de tres meses y que el 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trabajo científico que se realice esté directamente relacionado con los objetivos de la tesis mencionados 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anteriormente o con los de alguna publicación. Actualmente se está llevando a cabo una búsqueda de grupos de 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;investigación y proyectos con los que colaborar para la estancia.
 
 <br>
 
@@ -245,13 +244,16 @@ Tesis con mención internacional. Se prevé que la estancia dure alrededor de tr
  
 ## Plan de Formación
 
-●	Plan de formación de la Escuela de Doctorado:
+○&nbsp;&nbsp;&nbsp;&nbsp;Plan de formación de la Escuela de Doctorado:
 
-○	Curso “La documentación científica para la elaboración de la Tesis”, impartido del 13 al 31 enero de 2025, con un total de 8 horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “La documentación científica para la elaboración de la Tesis”, impartido del 13 al 31 enero de 2025, con un 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total de 8 horas.
 
-○	Curso “La revisión bibliográfica como método de investigación”, impartido del 19 de mayo al 6 junio de 2025, con un total de 6 horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “La revisión bibliográfica como método de investigación”, impartido del 19 de mayo al 6 junio de 2025, con 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un total de 6 horas.
 
-○	Curso “Técnicas avanzadas de gestión de la información”, impartido del 3 al 27 de febrero de 2025, con un total de 10 horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “Técnicas avanzadas de gestión de la información”, impartido del 3 al 27 de febrero de 2025, con un total de 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 horas.
 
 Se espera la participación de más cursos de la Escuela de Doctorado para el siguiente curso 2025/2026.
 
