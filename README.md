@@ -76,21 +76,20 @@ A pesar de estos avances, persisten importantes lagunas de conocimiento. La mayo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Descargar datos crudos de secuenciación de genomas de artrópodos aislados en diferentes ámbitos.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Buscar secuencias de bacterias y virus en los genomas de artrópodos descargados, restringiendo a grupos 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxonómicos concretos, en caso de existir un gran número.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxonómicos concretos, en caso de existir un gran número.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Realizar pangenomas de las especies de bacterias y virus encontradas para caracterizarlas filogenéticamente 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dentro 
-de la especie y estudiar su potencial patogenicidad y virulencia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dentro de la especie y estudiar su potencial patogenicidad y virulencia.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Buscar y analizar genes de resistencia a antibióticos y de virulencia en las secuencias de bacterias y virus 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;encontrados.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;encontrados.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Investigar posibles diferencias entre la presencia de bacterias en artrópodos de hábitat rural y de hábitat 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urbano.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urbano.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Distinguir entre contaminación y transferencia horizontal bacteriana entre los datos de artrópodos. Dilucidar 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;si, en caso de contaminación, se debe a una relación mutualista de simbiosis, tanto de endosimbiosis como 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de ectosimbiosis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;si, en caso de contaminación, se debe a una relación mutualista de simbiosis, tanto de endosimbiosis como 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de ectosimbiosis.
 
 Estas búsquedas de datos genómicos serán realizadas en bases de datos con datos públicos de acceso disponible, como las bases de datos del National Center for Biotechnological Information (NCBI).
 
@@ -190,40 +189,42 @@ Estas búsquedas de datos genómicos serán realizadas en bases de datos con dat
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;Referencias Bibliográficas:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Cornet L, Baurain D. Contamination detection in genomic data: more is not enough. Genome Biol. 2022 Feb 21;23(1):60. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi: 10.1186/s13059-022-02619-9. PMID: 35189924; PMCID: PMC8862208.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Cornet L, Baurain D. Contamination detection in genomic data: more is not enough. Genome Biol. 2022 Feb 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21;23(1):60. doi: 10.1186/s13059-022-02619-9. PMID: 35189924; PMCID: PMC8862208.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bharadwaj A, Rastogi A, Pandey S, Gupta S, Sohal JS. Multidrug-Resistant Bacteria: Their Mechanism of Action and 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prophylaxis. Biomed Res Int. 2022 Sep 5;2022:5419874. doi: 10.1155/2022/5419874. PMID: 36105930; PMCID: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PMC9467707.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bharadwaj A, Rastogi A, Pandey S, Gupta S, Sohal JS. Multidrug-Resistant Bacteria: Their Mechanism of Action 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Prophylaxis. Biomed Res Int. 2022 Sep 5;2022:5419874. doi: 10.1155/2022/5419874. PMID: 36105930; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PMCID: PMC9467707.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Hernández Torres, E. García Vázquez, G. Yagüe, J. Gómez Gómez. Multidrug resistant Acinetobacter baumannii: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clinical update and new highlights. Revista Española de Quimioterapia, ISSN-e 0214-3429, Vol. 23, Nº. 1, 2010, págs. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12-19. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Hernández Torres, E. García Vázquez, G. Yagüe, J. Gómez Gómez. Multidrug resistant Acinetobacter 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;baumannii: clinical update and new highlights. Revista Española de Quimioterapia, ISSN-e 0214-3429, Vol. 23, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nº. 1, 2010, págs. 12-19. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Dahiru & O. I. Enabulele. Acinetobacter baumannii in Birds’ Feces: A Public Health Threat to Vegetables and Irrigation 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Farmers. Advances in Microbiology, Vol.5 No.10, 2015. doi: 10.4236/aim.2015.510072.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M. Dahiru & O. I. Enabulele. Acinetobacter baumannii in Birds’ Feces: A Public Health Threat to Vegetables 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Irrigation Farmers. Advances in Microbiology, Vol.5 No.10, 2015. doi: 10.4236/aim.2015.510072.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zug R, Hammerstein P. Bad guys turned nice? A critical assessment of Wolbachia mutualisms in arthropod hosts. Biol Rev  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Camb Philos Soc. 2015 Feb;90(1):89-111. doi: 10.1111/brv.12098. Epub 2014 Mar 11. PMID: 24618033.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zug R, Hammerstein P. Bad guys turned nice? A critical assessment of Wolbachia mutualisms in arthropod 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hosts. Biol Rev Camb Philos Soc. 2015 Feb;90(1):89-111. doi: 10.1111/brv.12098. Epub 2014 Mar 11. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PMID: 24618033.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founou LL, Founou RC, Essack SY. Antibiotic Resistance in the Food Chain: A Developing Country-Perspective. Front 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microbiol. 2016 Nov 23;7:1881. doi: 10.3389/fmicb.2016.01881. PMID: 27933044; PMCID: PMC5120092.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founou LL, Founou RC, Essack SY. Antibiotic Resistance in the Food Chain: A Developing Country-Perspective. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front Microbiol. 2016 Nov 23;7:1881. doi: 10.3389/fmicb.2016.01881. PMID: 27933044; PMCID: PMC5120092.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGann P, Snesrud E, Maybank R, Corey B, Ong AC, Clifford R, Hinkle M, Whitman T, Lesho E, Schaecher KE. Escherichia  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United States. Antimicrob 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agents Chemother. 2016 Jun 20;60(7):4420-1. doi: 10.1128/AAC.01103-16. Erratum in: Antimicrob Agents Chemother. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2016 Jul 22;60(8):5107. doi: 10.1128/AAC.01353-16. PMID: 27230792; PMCID: PMC4914657.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGann P, Snesrud E, Maybank R, Corey B, Ong AC, Clifford R, Hinkle M, Whitman T, Lesho E, Schaecher KE. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Escherichia coli Harboring mcr-1 and blaCTX-M on a Novel IncF Plasmid: First Report of mcr-1 in the United 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;States. Antimicrob Agents Chemother. 2016 Jun 20;60(7):4420-1. doi: 10.1128/AAC.01103-16. Erratum in: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antimicrob Agents Chemother. 2016 Jul 22;60(8):5107. doi: 10.1128/AAC.01353-16. PMID: 27230792; PMCID: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PMC4914657.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ci-Xiu Li, Mang Shi, Jun-Hua Tian, Xian-Dan Lin, Yan-Jun Kang, Liang-Jun Chen, Xin-Cheng Qin, Jianguo Xu, Edward C
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Holmes, Yong-Zhen Zhang (2015). Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of negative-sense RNA viruses. eLife 4:e05378. doi: 10.7554/eLife.05378
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ci-Xiu Li, Mang Shi, Jun-Hua Tian, Xian-Dan Lin, Yan-Jun Kang, Liang-Jun Chen, Xin-Cheng Qin, Jianguo Xu, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edward C Holmes, Yong-Zhen Zhang (2015). Unprecedented genomic diversity of RNA viruses in arthropods 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reveals the ancestry of negative-sense RNA viruses. eLife 4:e05378. doi: 10.7554/eLife.05378
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wood, D.E., Lu, J. & Langmead, B. Improved metagenomic analysis with Kraken 2. Genome Biol 20, 257 (2019). 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi: 10.1186/s13059-019-1891-0
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi: 10.1186/s13059-019-1891-0
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bae JM. Methodological issues for determining intervals of subsequent cancer screening. Epidemiol Health.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014;36.e2014010. doi: 10.4178/epih/e2014010
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014;36.e2014010. doi: 10.4178/epih/e2014010
 
 <br>
 
