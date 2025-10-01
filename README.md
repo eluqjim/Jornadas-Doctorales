@@ -1,4 +1,9 @@
-# Plan de Investigación y Formación
+
+<br>
+
+<br>
+
+<h1 align="center">Plan de Investigación y Formación</h1>
 
 <br>
 
