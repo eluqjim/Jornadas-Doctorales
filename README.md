@@ -273,7 +273,7 @@ Se planea participar en los siguientes cursos en el próximo curso 2025-2026:
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;Seminarios de Investigación:
 
-Asistencia a seminarios internos (Centro Andaluz de Biología del Desarrollo, CABD):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asistencia a seminarios internos (Centro Andaluz de Biología del Desarrollo, CABD):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antonio Giráldez. Yale University. Understanding the mechanisms of gene regulations through genomics and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imaging. (09-04-2025).
@@ -286,7 +286,7 @@ Asistencia a seminarios internos (Centro Andaluz de Biología del Desarrollo, CA
 
 <br>
 
-Asistencia a seminarios externos:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asistencia a seminarios externos:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juan Pascual-Gil & Pedro Costales Maestre. Estación Biológica de Doñana. Fire effects on mediterranean 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communities from an ecosystem perspective / An integrative approach to the diversity of the 
@@ -358,12 +358,12 @@ Como primera autora del artículo mencionado anteriormente, y para su completa r
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;Complementos Formativos:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller del Centro Andaluz de Biología del Desarrollo en la Feria de las Ciencias 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de Sevilla, el 22 de abril de 2025, duración de cuatro horas. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller del Centro Andaluz de Biología del Desarrollo en la Feria de las Ciencias de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sevilla, el 22 de abril de 2025, duración de cuatro horas. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller “¿Cómo se forman los seres vivos?” en el Colegio de Educación Infantil y 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primaria Ana María Matute en Dos Hermanas, Sevilla, el día 21 de enero de 2025, duración 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de dos horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primaria Ana María Matute en Dos Hermanas, Sevilla, el día 21 de enero de 2025, duración de dos
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;horas.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller “Aprendiendo con los ratones” en el Colegio de Educación Infantil y Primaria 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tartessos, en Sevilla Este, el día 28 de mayo de 2025, duración de tres horas.
