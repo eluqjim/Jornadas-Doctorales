@@ -263,7 +263,7 @@ Se espera la participación de más cursos de la Escuela de Doctorado para el si
  
 ○&nbsp;&nbsp;&nbsp;&nbsp;Plan de formación de los Programas de Doctorado:
 
-Se planea participar en los siguientes cursos en el próximo curso 2025-2026:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se planea participar en los siguientes cursos en el próximo curso 2025-2026:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data processing using R: basic statistics and graph generation (duración de 10 horas).
 
@@ -273,7 +273,7 @@ Se planea participar en los siguientes cursos en el próximo curso 2025-2026:
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;Seminarios de Investigación:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asistencia a seminarios internos (Centro Andaluz de Biología del Desarrollo, CABD):
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asistencia a seminarios internos (Centro Andaluz de Biología del Desarrollo, CABD):
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antonio Giráldez. Yale University. Understanding the mechanisms of gene regulations through genomics and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imaging. (09-04-2025).
@@ -286,7 +286,7 @@ Se planea participar en los siguientes cursos en el próximo curso 2025-2026:
 
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asistencia a seminarios externos:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asistencia a seminarios externos:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juan Pascual-Gil & Pedro Costales Maestre. Estación Biológica de Doñana. Fire effects on mediterranean 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communities from an ecosystem perspective / An integrative approach to the diversity of the 
