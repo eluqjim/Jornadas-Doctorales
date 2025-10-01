@@ -244,101 +244,127 @@ Estas búsquedas de datos genómicos serán realizadas en bases de datos con dat
  
 ## Plan de Formación
 
+<br>
+
 ○&nbsp;&nbsp;&nbsp;&nbsp;Plan de formación de la Escuela de Doctorado:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “La documentación científica para la elaboración de la Tesis”, impartido del 13 al 31 enero de 2025, con un 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total de 8 horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “La documentación científica para la elaboración de la Tesis”, impartido del 13 al 31 enero de 2025, con 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un total de 8 horas.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “La revisión bibliográfica como método de investigación”, impartido del 19 de mayo al 6 junio de 2025, con 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;un total de 6 horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “La revisión bibliográfica como método de investigación”, impartido del 19 de mayo al 6 junio de 2025, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;con un total de 6 horas.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “Técnicas avanzadas de gestión de la información”, impartido del 3 al 27 de febrero de 2025, con un total de 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso “Técnicas avanzadas de gestión de la información”, impartido del 3 al 27 de febrero de 2025, con un 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total de 10 horas.
 
 Se espera la participación de más cursos de la Escuela de Doctorado para el siguiente curso 2025/2026.
 
-
-●	Plan de formación de los Programas de Doctorado:
+<br>
+ 
+○&nbsp;&nbsp;&nbsp;&nbsp;Plan de formación de los Programas de Doctorado:
 
 Se planea participar en los siguientes cursos en el próximo curso 2025-2026:
 
-●	Data processing using R: basic statistics and graph generation (duración de 10 horas).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data processing using R: basic statistics and graph generation (duración de 10 horas).
 
-●	Introduction to Data Analysis with Orange3 (duración de 10 horas).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Data Analysis with Orange3 (duración de 10 horas).
 
+<br>
 
-●	Seminarios de Investigación:
+○&nbsp;&nbsp;&nbsp;&nbsp;Seminarios de Investigación:
 
 Asistencia a seminarios internos (Centro Andaluz de Biología del Desarrollo, CABD):
 
--	Antonio Giráldez. Yale University. Understanding the mechanisms of gene regulations through genomics and imaging. [09-04-2025].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antonio Giráldez. Yale University. Understanding the mechanisms of gene regulations through genomics and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;imaging. (09-04-2025).
 
--	Modesto Orozco. Instituto de Investigación Biomédica (IRB) Barcelona. Expanding the frontiers of nucleic acid simulations. [21-03-2025].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modesto Orozco. Instituto de Investigación Biomédica (IRB) Barcelona. Expanding the frontiers of nucleic 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;acid simulations. (21-03-2025).
   
--	Dirk Shübeler. Friedrich Miescher Institute for Biomedical Research (FMI), Basel, Switzerland. Finding your place: transcription factors and modifiers of chromatin. [11-04-2025].
-  
-	Asistencia a seminarios externos:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dirk Shübeler. Friedrich Miescher Institute for Biomedical Research (FMI), Basel, Switzerland. Finding your 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;place: transcription factors and modifiers of chromatin. (11-04-2025).
 
--	Juan Pascual-Gil & Pedro Costales Maestre. Estación Biológica de Doñana. Fire effects on mediterranean communities from an ecosystem perspective / An integrative approach to the diversity of the Mediterranean Sonchus asper taxonomic complex. [13-02-2025].
+<br>
 
--	Ladislav Hamerlik.  Estación Biológica de Doñana. Paleolimnology: Reading the lake sediments to reveal environmental history. [20-02-2025].
+Asistencia a seminarios externos:
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Juan Pascual-Gil & Pedro Costales Maestre. Estación Biológica de Doñana. Fire effects on mediterranean 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communities from an ecosystem perspective / An integrative approach to the diversity of the 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mediterranean Sonchus asper taxonomic complex. (13-02-2025).
 
-●	Reuniones de seguimiento de los Proyectos:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ladislav Hamerlik.  Estación Biológica de Doñana. Paleolimnology: Reading the lake sediments to reveal 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;environmental history. (20-02-2025).
+
+<br>
+
+○&nbsp;&nbsp;&nbsp;&nbsp;Reuniones de seguimiento de los Proyectos:
 
 Todos los jueves se han realizado reuniones de grupo de los integrantes del grupo de investigación a cargo de Antonio Jesús Pérez Pulido, en las que se ha seguido el progreso de la tesis semanalmente.
 Se planea participar en los CABD Meetings y presentar una charla en el año 2025, que tratará sobre los inicios de la tesis doctoral y los avances hasta el momento.
 
+<br>
 
-●	Cursos de especialización científica:
+○&nbsp;&nbsp;&nbsp;&nbsp;Cursos de especialización científica:
 
 Todos los títulos obtenidos a lo largo de la carrera académica previa a la tesis han aportado conocimiento para ésta:
 
-○	Máster en Análisis de Datos Ómicos y Biología de Sistemas, Universidad Internacional de Andalucía, Sevilla (2023 - presente).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Máster en Análisis de Datos Ómicos y Biología de Sistemas, Universidad Internacional de Andalucía, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sevilla (2023 - presente).
 
-○	Diploma de experta en Bioinformática, Universidad Pablo de Olavide, Sevilla (2023 - 2024).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diploma de experta en Bioinformática, Universidad Pablo de Olavide, Sevilla (2023 - 2024).
 
-○	Curso de Experto Universitario en Entomología Aplicada, Universidad Nacional de Educación a Distancia (2021).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Curso de Experto Universitario en Entomología Aplicada, Universidad Nacional de Educación a Distancia 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2021).
 
-○	Máster en Biodiversidad, Universidad Autónoma de Madrid, Madrid (2019 - 2020).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Máster en Biodiversidad, Universidad Autónoma de Madrid, Madrid (2019 - 2020).
 
-○	Grado en Biotecnología, Universidad Pablo de Olavide, Sevilla (2014 - 2019).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grado en Biotecnología, Universidad Pablo de Olavide, Sevilla (2014 - 2019).
 
+<br>
 
-●	Asistencia y participación a congresos:
+○&nbsp;&nbsp;&nbsp;&nbsp;Asistencia y participación a congresos:
 
 Se ha asistido y participado en las Jornadas Andaluzas de Bioinformática (JABI), en Málaga, del 12 al 14 de mayo de 2025, realizando una comunicación oral titulada “Bacteriophages in arthropods or contamination in genome databases?”.
 Se planea participar además en las próximas JABI, presentando póster, y en los años siguientes que se realice la tesis.
 Se planea participar en las Jornadas Doctorales en el curso 2024/2025 que se emplazarán en Carmona, en el Palacio de los Briones (sede de la Universidad Pablo de Olavide), en el mes de octubre. Se realizará una presentación de póster.
 
+<br>
 
-●	Publicaciones:
+○&nbsp;&nbsp;&nbsp;&nbsp;Publicaciones:
 
 En estos momentos se encuentra en proceso de publicar un artículo como primera autora titulado “A bacteriophage in a mite genome reveals bacterial contamination and opens new possibilities for exploring arthropod symbionts“ en la revista Microbial Genomics, a la que enviamos el manuscrito en el mes de abril y recibimos primera revisión en junio (Major revision). Enviaremos la segunda versión corregida y ampliada antes de agosto con perspectiva de ser publicada en los próximos meses. Este trabajo incluye los resultados de la primera parte de la tesis.
 Se prevé publicar más artículos y/o comunicaciones en los siguientes años de tesis, tanto como primera autora, como otras colaboraciones en el grupo.
 
+<br>
 
-●	Estancias:
+○&nbsp;&nbsp;&nbsp;&nbsp;Estancias:
 
 No se ha realizado ninguna estancia por el momento. Se planea hacerla en un centro de investigación internacional para el tercer año de tesis, en el curso 2026-2027, de una duración de alrededor de tres meses. El objetivo de la estancia será de un trabajo que deberá formar una aportación sustancial a la tesis, ya sea trabajo de campo y laboratorio o trabajo computacional.
 
+<br>
 
-●	Formación para la docencia:
+○&nbsp;&nbsp;&nbsp;&nbsp;Formación para la docencia:
 
 Se planea ejercer de ayudante de prácticas para prácticas tuteladas de la asignatura “Bioinformática” del grado de Biotecnología de la Universidad Pablo de Olavide en los próximos años de la tesis. Durante el curso 2025-2026 ya se han planificado alrededor de 21 horas.
 Se planea ejercer como docente en el diploma de especialización de Bioinformática de la Universidad Pablo de Olavide a partir del curso 2026-2027.
 
+<br>
 
-●	Iniciación a la Dirección de Proyectos Científicos y a la Transferencia de Conocimientos:
+○&nbsp;&nbsp;&nbsp;&nbsp;Iniciación a la Dirección de Proyectos Científicos y a la Transferencia de Conocimientos:
 
 Como primera autora del artículo mencionado anteriormente, y para su completa realización entre varios miembros del grupo de investigación de mi director de tesis, se ha debido ejercer una labor de coordinadora de proyecto, de tal forma que las tareas ejercidas por los miembros participantes fueran coherentes las unas con las otras, se realizaran correctamente y finalmente se pusieran en común los resultados para construir el artículo. 
 
+<br>
 
-●	Complementos Formativos:
+○&nbsp;&nbsp;&nbsp;&nbsp;Complementos Formativos:
 
-○	Participación en el taller del Centro Andaluz de Biología del Desarrollo en la Feria de las Ciencias de Sevilla, el 22 de abril de 2025, duración de cuatro horas. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller del Centro Andaluz de Biología del Desarrollo en la Feria de las Ciencias 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de Sevilla, el 22 de abril de 2025, duración de cuatro horas. 
 
-○	Participación en el taller “¿Cómo se forman los seres vivos?” en el Colegio de Educación Infantil y Primaria Ana María Matute en Dos Hermanas, Sevilla, el día 21 de enero de 2025, duración de dos horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller “¿Cómo se forman los seres vivos?” en el Colegio de Educación Infantil y 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primaria Ana María Matute en Dos Hermanas, Sevilla, el día 21 de enero de 2025, duración 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de dos horas.
 
-○	Participación en el taller “Aprendiendo con los ratones” en el Colegio de Educación Infantil y Primaria Tartessos, en Sevilla Este, el día 28 de mayo de 2025, duración de tres horas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participación en el taller “Aprendiendo con los ratones” en el Colegio de Educación Infantil y Primaria 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tartessos, en Sevilla Este, el día 28 de mayo de 2025, duración de tres horas.
 
