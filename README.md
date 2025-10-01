@@ -6,8 +6,8 @@
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;Curso Académico: 2024/2025
 
-●&nbsp;&nbsp;&nbsp;&nbsp;Título provisional de la Tesis Doctoral: Búsqueda de artrópodos reservorios de bacterias y virus patógenos mediante el análisis de datos 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de secuenciación NGS públicos.
+●&nbsp;&nbsp;&nbsp;&nbsp;Título provisional de la Tesis Doctoral: Búsqueda de artrópodos reservorios de bacterias y virus patógenos 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mediante el análisis de datos de secuenciación NGS públicos.
 
 ●&nbsp;&nbsp;&nbsp;&nbsp;Línea de Investigación: Ingeniería, Ciencia de Datos y Bioinformática.
 
