@@ -50,19 +50,20 @@ A pesar de estos avances, persisten importantes lagunas de conocimiento. La mayo
 ○&nbsp;&nbsp;&nbsp;&nbsp;Hipótesis y/o preguntas de investigación:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Hay una presencia desconocida y relevante de bacterias y virus en artrópodos, con potencial de transmisión y 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patogenicidad en humanos, por lo que el estudio de sus datos genómicos sería de gran interés.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;patogenicidad en humanos, por lo que el estudio de sus datos genómicos sería de gran interés.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Existen diferencias entre las bacterias presentes en artrópodos domésticos y de ambientes urbanos (que habitan 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;en nuestras residencias y espacios habitables) y las bacterias presentes en artrópodos de ambiente rural.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Existen diferencias entre las bacterias presentes en artrópodos domésticos y de ambientes urbanos (que 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;habitan en nuestras residencias y espacios habitables) y las bacterias presentes en artrópodos de ambiente 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rural.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Existen diferencias entre las bacterias presentes en artrópodos que habitan hospitales y las bacterias presentes en 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;artrópodos de ambiente urbano y rural.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Existen diferencias entre las bacterias presentes en artrópodos que habitan hospitales y las bacterias 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;presentes en artrópodos de ambiente urbano y rural.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Los artrópodos pueden actuar como vectores de bacterias resistentes a antibióticos tanto para humanos como para otros 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;animales.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Los artrópodos pueden actuar como vectores de bacterias resistentes a antibióticos tanto para humanos 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;como para otros animales.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Hay animales afectados por la transmisión de bacterias patógenas resistentes a antibióticos afectan indirectamente 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a humanos, como en la industria cárnica.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Hay animales afectados por la transmisión de bacterias patógenas resistentes a antibióticos afectan 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;indirectamente a humanos, como en la industria cárnica.
 
 <br>
 
@@ -74,19 +75,22 @@ A pesar de estos avances, persisten importantes lagunas de conocimiento. La mayo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Descargar datos crudos de secuenciación de genomas de artrópodos aislados en diferentes ámbitos.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Buscar secuencias de bacterias y virus en los genomas de artrópodos descargados, restringiendo a grupos taxonómicos 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;concretos, en caso de existir un gran número.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Buscar secuencias de bacterias y virus en los genomas de artrópodos descargados, restringiendo a grupos 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;taxonómicos concretos, en caso de existir un gran número.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Realizar pangenomas de las especies de bacterias y virus encontradas para caracterizarlas filogenéticamente dentro 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de la especie y estudiar su potencial patogenicidad y virulencia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Realizar pangenomas de las especies de bacterias y virus encontradas para caracterizarlas filogenéticamente 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dentro 
+de la especie y estudiar su potencial patogenicidad y virulencia.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Buscar y analizar genes de resistencia a antibióticos y de virulencia en las secuencias de bacterias y virus 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;encontrados.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Investigar posibles diferencias entre la presencia de bacterias en artrópodos de hábitat rural y de hábitat urbano.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Investigar posibles diferencias entre la presencia de bacterias en artrópodos de hábitat rural y de hábitat 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urbano.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Distinguir entre contaminación y transferencia horizontal bacteriana entre los datos de artrópodos. Dilucidar si, en 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caso de contaminación, se debe a una relación mutualista de simbiosis, tanto de endosimbiosis como de ectosimbiosis.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;Distinguir entre contaminación y transferencia horizontal bacteriana entre los datos de artrópodos. Dilucidar 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;si, en caso de contaminación, se debe a una relación mutualista de simbiosis, tanto de endosimbiosis como 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de ectosimbiosis.
 
 Estas búsquedas de datos genómicos serán realizadas en bases de datos con datos públicos de acceso disponible, como las bases de datos del National Center for Biotechnological Information (NCBI).
 
